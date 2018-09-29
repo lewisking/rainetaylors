@@ -1,13 +1,8 @@
 // Responsive things
 
-@media screen and (min-width: 1000px)  {
-
-}
-
-@media screen and (max-width: 999px) and (min-width: 750px)  {
-
-}
-
 @media screen and (max-width: 750px) {
 
+  .container-introduction h1 {
+    @include font-size(32);
+  }
 }
