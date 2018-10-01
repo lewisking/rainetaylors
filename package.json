@@ -1,13 +1,13 @@
 {
-  "name": "portfolio",
-  "url": "http://lewisking.net",
+  "name": "rainetailors",
+  "url": "http://rainetailors.com",
   "author": "Lewis King",
-  "copyright": "2017",
+  "copyright": "2018",
   "version": "0.0.1",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lewisking/Personal-site"
+    "url": "https://github.com/lewisking/rainetailors/"
   },
   "devDependencies": {
     "browser-sync": "^2.24.6",
